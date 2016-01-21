@@ -1,8 +1,5 @@
-#[Do Now] Project 5  - Instagram Searcher
-Navigate to the [Instagram Developers Guide](https://instagram.com/developer/) to register a new client.
+#[Do Now] Project 5  - Flickr Searcher
+Login to Github. Click the fork button on the current page. Copy the SSH url of the repo you create.
 
-In order to register your app you will need to sign in to your instagram account. If you do not have an Instagram account please create one first.   
+Login to Cloud 9 and create a new workspace. Use the custom template. In the github url paste the SSH url from your new repo. Click "create workspace."
 
-When prompted for a Website URL and Redirect URL you can provide the link to your GitHub profile.  
-
-![Imgur](http://i.imgur.com/caISxXV.png)
